@@ -1,23 +1,12 @@
 # Shopping Cart With React
 
 
-![enter user details](https://user-images.githubusercontent.com/94166696/141742345-aad1cb21-950d-4988-8f9f-e216a2244ab9.png)
-![Items Added to the cart](https://user-images.githubusercontent.com/94166696/141742352-ea7f8335-89a4-4f90-a81c-62b500404d0d.png)
-![order place conformation page](https://user-images.githubusercontent.com/94166696/141742354-5e903ec9-a958-4eb2-9b51-ea8132821c33.png)
-![proceed to checkout](https://user-images.githubusercontent.com/94166696/141742358-32718a88-f53f-4ec9-ab62-9f6d3eed4da1.png)
-![product details](https://user-images.githubusercontent.com/94166696/141742362-d29e4445-161d-47f9-9f26-2b8657c845b1.png)
-![Application Landing  page](https://user-images.githubusercontent.com/94166696/141742366-e0393584-757d-493f-b227-61bf56b24d2b.png)
-
-
-
-
-
-
-
-
-
-
-
+![1 Application Landing  page](https://user-images.githubusercontent.com/94166696/141742756-ba4569a8-2024-4a66-a7ec-0a494884b96e.png)
+![2 Items Added to the cart](https://user-images.githubusercontent.com/94166696/141742759-c6919d8b-40d5-418f-9070-f5c4acec6739.png)
+![3 product details](https://user-images.githubusercontent.com/94166696/141742733-dc2b3ccb-db6a-45fe-b834-5897d845897f.png)
+![4 proceed to checkout](https://user-images.githubusercontent.com/94166696/141742742-fb3747a7-eeff-4b62-9094-df8719ac8298.png)
+![5 enter user details](https://user-images.githubusercontent.com/94166696/141742746-a727004c-0d26-4b34-8f0e-1ca24c7f591c.png)
+![6 order place conformation page](https://user-images.githubusercontent.com/94166696/141742754-a63df51b-b67f-4b80-b286-b40c3a9a9fff.png)
 
 
 

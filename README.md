@@ -1,5 +1,28 @@
 # Shopping Cart With React
 
+
+![enter user details](https://user-images.githubusercontent.com/94166696/141742345-aad1cb21-950d-4988-8f9f-e216a2244ab9.png)
+![Items Added to the cart](https://user-images.githubusercontent.com/94166696/141742352-ea7f8335-89a4-4f90-a81c-62b500404d0d.png)
+![order place conformation page](https://user-images.githubusercontent.com/94166696/141742354-5e903ec9-a958-4eb2-9b51-ea8132821c33.png)
+![proceed to checkout](https://user-images.githubusercontent.com/94166696/141742358-32718a88-f53f-4ec9-ab62-9f6d3eed4da1.png)
+![product details](https://user-images.githubusercontent.com/94166696/141742362-d29e4445-161d-47f9-9f26-2b8657c845b1.png)
+![Application Landing  page](https://user-images.githubusercontent.com/94166696/141742366-e0393584-757d-493f-b227-61bf56b24d2b.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 It is a ecommerse application where the user can find the related products along with the product details 
 
 where the user can filter the product based on the size and can even sort the products based on prices
